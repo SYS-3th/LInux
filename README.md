@@ -91,6 +91,8 @@
 ### [파일명령어](https://github.com/SYS-3th/Linux/blob/ecf2a0fc8ec26c8b4152081fde3c73e93d3c1676/file/filelang.md)
 
 ## 문서편집기 
+### vi 편집기
+### nano 편집기
 
 ## 파일 및 디렉토리 검색 
 
