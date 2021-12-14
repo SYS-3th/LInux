@@ -128,6 +128,8 @@
 ### [쉘 명령어](https://github.com/SYS-3th/Linux/blob/3873c99b92ef2f311fab02b14ab2b9d46aa4f14d/shall/shall.md)
 ## 프로세스 제어
 
+### [프로세스제어](https://github.com/SYS-3th/Linux/blob/16a6f06c6352fdab085a5bfacbe6fb01df56971a/process/process.md)
+
 ## 압축 및 아카이브
 
  
