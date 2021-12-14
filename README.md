@@ -96,8 +96,13 @@
 ### nano 편집기
 - [nano 명령어](https://github.com/SYS-3th/Linux/blob/717121d6a4b2e022ddb019db0b7b12081142cef9/nanolang.md)
 ## 파일 및 디렉토리 검색 
+## 파일내에서 검색
 
+ ### [grep명령어]()
+ ### [fgrep명령어]()
+## 디렉토리 내에서 감색
 
+### [find]()
 ## 하드링크와 심볼릭 링크
 
 ## 권한의 이해와 설정방법 
