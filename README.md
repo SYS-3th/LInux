@@ -98,7 +98,7 @@
 ## 파일 및 디렉토리 검색 
 ## 파일내에서 검색
 
- ### [grep명령어]()
+ ### [grep명령어](https://github.com/SYS-3th/Linux/blob/f90a429a6ac618922c23d9d737c40ef0d7926d9c/serch/grep.md)
  ### [fgrep명령어]()
 ## 디렉토리 내에서 감색
 
