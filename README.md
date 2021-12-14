@@ -102,7 +102,7 @@
  ### [fgrep명령어]()
 ## 디렉토리 내에서 감색
 
-### [find]()
+### [find](https://github.com/SYS-3th/Linux/blob/8915006a90a409e424904b96eaf650e82e050807/serch/findlang.md)
 ## 하드링크와 심볼릭 링크
 
 ## 권한의 이해와 설정방법 
