@@ -125,7 +125,7 @@
 [특수권한](https://github.com/SYS-3th/Linux/blob/3f5fe95e4665904c542de90fe59dde7a08a288b5/rights/special%20rights.md)
 
 ## 셀 명령어
-
+### [쉘 명령어](https://github.com/SYS-3th/Linux/blob/3873c99b92ef2f311fab02b14ab2b9d46aa4f14d/shall/shall.md)
 ## 프로세스 제어
 
 ## 압축 및 아카이브
