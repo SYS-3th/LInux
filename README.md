@@ -121,7 +121,8 @@
 - 하드링크는 한 위치 정보를 또 다른 이름으로 가리키는 개념
 ## 권한의 이해와 설정방법 
 
-## 특수권한 
+## 특수권한
+[특수권한](https://github.com/SYS-3th/Linux/blob/3f5fe95e4665904c542de90fe59dde7a08a288b5/rights/special%20rights.md)
 
 ## 셀 명령어
 
