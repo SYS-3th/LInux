@@ -63,6 +63,6 @@
 |- lost+found - 최상위 디렉토리인 `/` 디렉토리에만 존재하는 것이 아니라 파일 시스템마다 존재할 수 있는 디렉토리.
 ```
 
-### [디렏토리 명령어]()
+### [디렏토리 명령어](https://github.com/SYS-3th/Linux/blob/3f70a02a3cc4a73d92ce5b18f63ef49e8882f567/directory/directorylang.md)
 
 ## 상대경로와 절대 경로
