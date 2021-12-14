@@ -94,7 +94,7 @@
 ### vi 편집기
 - [vi명령어](https://github.com/SYS-3th/Linux/blob/da89c6ded7b4e913569c9eb40ef9e00273765b60/vilang.md)
 ### nano 편집기
-- [nano 명령어]()
+- [nano 명령어](https://github.com/SYS-3th/Linux/blob/717121d6a4b2e022ddb019db0b7b12081142cef9/nanolang.md)
 ## 파일 및 디렉토리 검색 
 
 
