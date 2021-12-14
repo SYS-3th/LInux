@@ -92,7 +92,7 @@
 
 ## 문서편집기 
 ### vi 편집기
-- [vi명령어]()
+- [vi명령어](https://github.com/SYS-3th/Linux/blob/da89c6ded7b4e913569c9eb40ef9e00273765b60/vilang.md)
 ### nano 편집기
 - [nano 명령어]()
 ## 파일 및 디렉토리 검색 
