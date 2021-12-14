@@ -9,15 +9,15 @@
 
 
 ## 기본 명령(단축키)들
-ctrl+g (F1)___ 도움말 표시
-ctrl+x (F2)___ nano 종료 (혹은 현재의 file buffer를 닫음)
-ctrl+o (F3)___ 현재 편집 중인 파일 저장
-ctrl+j (F4)___ 문단을 justify(행의 끝을 나란히 맞추다)한다. 즉, 한 문단을 한 줄로 붙인다.
-ctrl+r (F5) ___ 현재 file에 다른 file의 내용을 추가한다.
-ctrl+w (F6)___ text 검색
-ctrl+c (F11)___ 현재의 cursor 위치 표시하기
-ctrl+t (F12)___ spell check 시작
-ctrl+\ ___ search and replace
+- ctrl+g (F1)___ 도움말 표시
+- ctrl+x (F2)___ nano 종료 (혹은 현재의 file buffer를 닫음)
+- ctrl+o (F3)___ 현재 편집 중인 파일 저장
+- ctrl+j (F4)___ 문단을 justify(행의 끝을 나란히 맞추다)한다. 즉, 한 문단을 한 줄로 붙인다.
+- ctrl+r (F5) ___ 현재 file에 다른 file의 내용을 추가한다.
+- ctrl+w (F6)___ text 검색
+- ctrl+c (F11)___ 현재의 cursor 위치 표시하기
+- ctrl+t (F12)___ spell check 시작
+- ctrl+\ ___ search and replace
 
 
 ## 잘라내기/복사/붙여넣기에 관련된 단축키들
@@ -29,16 +29,16 @@ ctrl+\ ___ search and replace
 
 
 ## 화면 이동과 관련된 단축키들 
-PageUP 또는 ctrl+y (F7) ___ 이전 화면
-PageDown 또는 ctrl+v (F8)___ 다음 화면
-alt+( ___ 현재 문단의 시작으로
-alt+)___ 현재 문단의 끝으로
-alt+= ___ 한 줄 밑으로 스크롤
-alt+- ___ 한 줄 위로 스크롤
-ctrl+space ___ 한 단어 앞으로
-alt+space ___ 한 단어 뒤로 (GUI모드가 아닐 경우)
-alt+\___ file의 첫 line으로
-alt+/___ file의 마지막 line으로
-alt+] ___ 현재 괄호에 match되는 괄호 찾기
-ctrl+- ___ 줄 번호와  열을 입력한 후 그곳으로 이동
+- PageUP 또는 ctrl+y (F7) ___ 이전 화면
+- PageDown 또는 ctrl+v (F8)___ 다음 화면
+- alt+( ___ 현재 문단의 시작으로
+- alt+)___ 현재 문단의 끝으로
+- alt+= ___ 한 줄 밑으로 스크롤
+- alt+- ___ 한 줄 위로 스크롤
+- ctrl+space ___ 한 단어 앞으로
+- alt+space ___ 한 단어 뒤로 (GUI모드가 아닐 경우)
+- alt+\___ file의 첫 line으로
+- alt+/___ file의 마지막 line으로
+- alt+] ___ 현재 괄호에 match되는 괄호 찾기
+- ctrl+- ___ 줄 번호와  열을 입력한 후 그곳으로 이동
 
