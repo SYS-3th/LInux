@@ -43,11 +43,13 @@ $ tar -uvf [target.tar] [targeFile]
 $ tar -xvf [target.tar] [dir] [dir2] [...]
  ```
 ## 일부삭제 
+ target.tar 에서 deleteFileName 을 가진 파일을 삭제합니다. 같은이름으로 버전별로 존재할 경우에도 전부 삭제합니다.
 ```
 # 아카이브 일부 삭제
 $ tar --delete --file=[target.tar] [deleteFileName]
 ```
 ## 기타-퍼미션유지
+만약 퍼미션이 아주아주 중요한 아카이브라면 따로 옵션을 주어 확실하게 커미션을 유지할 수 있습니다. 
 ```
 # 아카이브 생성
 $ tar -cvfp [createTarName.tar] [target]
@@ -55,6 +57,7 @@ $ tar -cvfp [createTarName.tar] [target]
 $ tar -xvfp [target.tar]
 ```
 ## 기타- 경로설정해제 
+만약 현재 디렉토리가 아닌 다른 디렉토리에 아카이브를 해제
 ```
 # 아카이브 해제
 $ tar -xvf [target.tar] -C [deployDir]
