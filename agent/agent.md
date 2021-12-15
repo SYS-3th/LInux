@@ -18,12 +18,12 @@ $ wget DOWNLOAD-URL
 현재까지 다운로드 받은 바이트 수 (112,550)
 현재 다운로드 속도 (3.64KB/s)
 다운로드 완료까지 남은 시간 (35s)
-
+```
 $ wget http://www.openss7.org/repos/tarballs/strx25-0.9.2.1.tar.bz2
 HTTP request sent, awaiting response… 200 OK
 Length: 3852374 (3.7M) [application/x-bzip2]
 Saving to: ‘strx25-0.9.2.1.tar.bz2’
-
+```
 2% [=> ] 112,550 3.64KB/s in 35s
 
 ## 다른이름으로 저장하기
