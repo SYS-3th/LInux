@@ -42,6 +42,12 @@ $ tar -uvf [target.tar] [targeFile]
  # 아카이브 일부 해제
 $ tar -xvf [target.tar] [dir] [dir2] [...]
  ```
+ 
+## 원하는 파일만 골라서 압축하기
+--wildcards 옵션으로 파일 이름의 패턴을 지정하여 원하는 파일만 고를 수 있는데 shell의 문법을 따르면 된다. 또한 *.pdf와 같은 방식으로 타입 별로 골라서 압축할 수 있다.
+```
+tar - xvf 아카이브이름.tar —wildcars ‘*.pdf’ 
+```
 ## 일부삭제 
  target.tar 에서 deleteFileName 을 가진 파일을 삭제합니다. 같은이름으로 버전별로 존재할 경우에도 전부 삭제합니다.
 ```
