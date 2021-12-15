@@ -89,3 +89,37 @@ $ wget –tries=75 DOWNLOAD-URL
 ```
 $ wget -i FILE-WHICH-HAS-URLS
 ```
+
+
+간혹 wget으로 여러 파일을 받으려고할 때가 있다. 그럴 때 wget을 이용해서 다음과 같이 파일을 다운로드 받을 수 있다.
+
+
+```
+wget -nd http://xxx.com/경로/파일명{반복 리스트}.확장자
+```
+
+
+가령, 예를 들어서 인간 참조 지놈의 모든 염색체 서열을 NCBI로 부터 다운로드 받는다고 하자.
+
+
+
+그럴 때 다음과 같이 할 수 있다.
+
+
+```
+wget -nd ftp://ftp.ncbi.nlm.nih.gov/genomes/H_sapiens/Assembled_chromosomes/seq/hs_alt_HuRef_chr{ 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,X,Y }.fa.gz
+
+```
+```
+wget ftp://ftp.ncbi.nlm.nih.gov/genomes/H_sapiens/Assembled_chromosomes/seq/hs_alt_HuRef_unplaced.fa.gz
+
+```
+
+다음과 같이 하면, 순서대로 hs_alt_HuRef_chr1.fa.gz 부터 hs_alt_HuRef_chrY.fa.gz 까지와 hs_alt_HuRef_unplaced.fa.gz
+
+의 파일을 순서대로 다운로드 받게 된다.
+
+
+
+주의할 점은 실제 명령어에서는 {(왼쪽 중괄호)와 1, Y와 }(오른쪽 중괄호) 사이에는 공백이 없으나 티스토리 블로그에서 잘못 표기되기 때문에 공백을 추가했다.
+
