@@ -57,7 +57,7 @@ Ubuntu에서는 /var/cache/apt/archives 디렉터리에 다양한 .deb 파일들
 
 - apt-get 보다 좀 더 개선된 기능을 제공
 
-
+## 사용 
 ### dpkg
 ```
 $ dpkg --help
