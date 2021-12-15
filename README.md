@@ -132,4 +132,8 @@
 
 ## 압축 및 아카이브
 
+## 패키지 매니저 
+ 
+[패캐지매니저](https://github.com/SYS-3th/Linux/blob/9c06e46754111423296fd704132f53dfe9ac8d43/pakage/package.md)
+
  
