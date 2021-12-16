@@ -40,3 +40,85 @@
 |-s|shell	로그인 쉘 변경|
 |ex:|chsh -s /bin/tcsh|
 |-u|도움말(usage)|
+
+
+
+
+변수     설명
+
+HOME 사용자 홈 디렉토리를 의미한다
+
+PATH. 실행파일의 경로이다.여러분이 chmod,mkdir 등의 명령어들은 /bin이나 /user/bib,/sbin에 위치하는데,이 경로들은 PATH지정하면 여러분들은 굳이 /bin/chmod를 입력하지 않고 ,chmod입력만 해주면 된다.
+
+
+
+
+
+
+|변수|설명|
+|------|---|
+|PATH|실행파일의 경로이다.여러분이 chmod,mkdir 등의 명령어들은 /bin이나 /user/bib,/sbin에 위치하는데,이 경로들은 PATH지정하면 여러분들은 굳이 /bin/chmod를 입력하지 않고 ,chmod입력만 해주면 된다.|
+|LANG|프로그램 실행시 지원되는 언어를 말한다.|
+|UID|사용자의 UID이다|
+|SHELL| 사용자가 로그인시 실행되는 쉘을 말한다.|
+|USER|사용자의 계정 이름을 말한다.|
+|FUNCNAME|현재 실행되고 있는 함수 이름을 말한다.|
+|TERM|로그인 터미널을 말한다|
+
+
+
+# 쉘변경
+```
+$cash 
+```
+## 세미클론 변경 ;
+
+하나의 라인에 주어진 명령어들을 성공,실패와 관련없이 전부 실행된다
+
+```
+$명령1;명령2;명령3;…
+
+```
+
+
+## 앰퍼센트($&&)
+앞에서부터 순차적으로 실행하되,실행에 실패할 경우 뒤에 오는 명령은 실행하지 않는다.
+
+```
+$명령1 && 명령2 && 명령3 &&….
+
+
+```
+## 쉴스크립트 작성
+
+### Multi command.sh스크립트 작성
+
+```
+#!/bin/bash
+Date
+Shame
+
+```
+
+## 메세지 표시하기
+### 문자열 내의 따옴표 사용
+```
+$echo let’s see if this’ll work
+!!결과왁인
+
+```
+### 올바른 사용법
+```
+This is a test to see if you’re paying attention
+Ruch says “scripting is easy”
+
+```
+다음은 간단한 입력구조를 가지는 쉘 스크립트 예제이다
+```
+#!/bin/bash
+Echo “What is your name”?
+Read PERSON
+Echo “Hello $PERSION”
+
+
+```
