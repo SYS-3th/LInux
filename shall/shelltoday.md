@@ -22,13 +22,13 @@ date +"%Y-%m-%d %H:%M:%S %z"
 touch backup_$(date +"%Y%m%d").txt
 
 // 생성된 파일 이름
-backup_20200701.txt
+backup_211220.txt
 ```
 오늘날짜 디렉토리 만들기
 ```
 mkdir $(date +"%Y-%m-%d")
 
 // 출력 결과
-2020-07-01/
+2021-12-20
 ```
 
