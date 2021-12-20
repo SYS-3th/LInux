@@ -127,7 +127,7 @@
 ## 셀 명령어
 ### [쉘 명령어](https://github.com/SYS-3th/Linux/blob/3873c99b92ef2f311fab02b14ab2b9d46aa4f14d/shall/shall.md)
 ### [쉘 연산자](https://github.com/SYS-3th/Linux/blob/ba5604c6b9c89c2819f712adef8edb42e96cc05f/shellnu,/shellnum.md)
-### [쉘_오늘날짜 저장하는 파일생성]()
+### [쉘_오늘날짜 저장하는 파일생성](https://github.com/SYS-3th/Linux/blob/5e6c316cd3a2848a9864c76b34b12044e9bbee6c/shall/shelltoday.md)
 
 ## 프로세스 제어
 
